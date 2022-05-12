@@ -1,0 +1,12 @@
+- Đăng nhập, đăng xuất(quản lý tài khoản, đăng ký, lấy lại mật khẩu)
+- Quản Lý Khách Hàng(danh sách)
+- Quản lý đơn hàng (danh sách đơn hàng, xem chi tiết đơn hàng, xử lý đơn hàng, in hóa đơn hàng)
+- Quản lý sản phẩm(danh sách, thêm, sửa, xóa)
+- Quản lý loại sản phẩm(danh sách, thêm, sửa, xóa)
+- Báo cáo thống kê (Biểu đồ thống kê doanh thu 7 ngày 28 ngày 90 ngày 365 ngày)
+- Quản lý banner (danh sách, thêm, sửa, xóa)
+- Quản lý nd nổi bât (danh sách, thêm, sửa, xóa)
+- Quản lý đánh giá (danh sách, thêm, sửa, xóa)
+- Thêm sản phẩm vào giỏ.
+- Thanh toán , nhận xác nhận đơn hàng từ mail
+- Và một số chức năng khác,.....
